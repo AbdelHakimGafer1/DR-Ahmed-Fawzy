@@ -696,6 +696,8 @@ nav {
   font-size: 0.9rem;
   color: var(--text-light);
   text-align: center;
+   bottom :72px;
+  position: relative;
 }
 
 @media (width > 540px) {
